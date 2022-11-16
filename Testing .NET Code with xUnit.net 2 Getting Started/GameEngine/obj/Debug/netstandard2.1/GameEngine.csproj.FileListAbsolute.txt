@@ -1,0 +1,20 @@
+C:\Users\f59bk\Downloads\dotnet-core-testing-code-xunit-dotnet-getting-started\02\demos\before\01AddingTestProject\GameEngine\bin\Debug\netstandard2.1\GameEngine.deps.json
+C:\Users\f59bk\Downloads\dotnet-core-testing-code-xunit-dotnet-getting-started\02\demos\before\01AddingTestProject\GameEngine\bin\Debug\netstandard2.1\GameEngine.dll
+C:\Users\f59bk\Downloads\dotnet-core-testing-code-xunit-dotnet-getting-started\02\demos\before\01AddingTestProject\GameEngine\bin\Debug\netstandard2.1\GameEngine.pdb
+C:\Users\f59bk\Downloads\dotnet-core-testing-code-xunit-dotnet-getting-started\02\demos\before\01AddingTestProject\GameEngine\obj\Debug\netstandard2.1\GameEngine.csproj.AssemblyReference.cache
+C:\Users\f59bk\Downloads\dotnet-core-testing-code-xunit-dotnet-getting-started\02\demos\before\01AddingTestProject\GameEngine\obj\Debug\netstandard2.1\GameEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\f59bk\Downloads\dotnet-core-testing-code-xunit-dotnet-getting-started\02\demos\before\01AddingTestProject\GameEngine\obj\Debug\netstandard2.1\GameEngine.AssemblyInfoInputs.cache
+C:\Users\f59bk\Downloads\dotnet-core-testing-code-xunit-dotnet-getting-started\02\demos\before\01AddingTestProject\GameEngine\obj\Debug\netstandard2.1\GameEngine.AssemblyInfo.cs
+C:\Users\f59bk\Downloads\dotnet-core-testing-code-xunit-dotnet-getting-started\02\demos\before\01AddingTestProject\GameEngine\obj\Debug\netstandard2.1\GameEngine.csproj.CoreCompileInputs.cache
+C:\Users\f59bk\Downloads\dotnet-core-testing-code-xunit-dotnet-getting-started\02\demos\before\01AddingTestProject\GameEngine\obj\Debug\netstandard2.1\GameEngine.dll
+C:\Users\f59bk\Downloads\dotnet-core-testing-code-xunit-dotnet-getting-started\02\demos\before\01AddingTestProject\GameEngine\obj\Debug\netstandard2.1\GameEngine.pdb
+C:\GIT\Learn\Testing .NET Code with xUnit.net 2 Getting Started\GameEngine\bin\Debug\netstandard2.1\GameEngine.deps.json
+C:\GIT\Learn\Testing .NET Code with xUnit.net 2 Getting Started\GameEngine\bin\Debug\netstandard2.1\GameEngine.dll
+C:\GIT\Learn\Testing .NET Code with xUnit.net 2 Getting Started\GameEngine\bin\Debug\netstandard2.1\GameEngine.pdb
+C:\GIT\Learn\Testing .NET Code with xUnit.net 2 Getting Started\GameEngine\obj\Debug\netstandard2.1\GameEngine.csproj.AssemblyReference.cache
+C:\GIT\Learn\Testing .NET Code with xUnit.net 2 Getting Started\GameEngine\obj\Debug\netstandard2.1\GameEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\Learn\Testing .NET Code with xUnit.net 2 Getting Started\GameEngine\obj\Debug\netstandard2.1\GameEngine.AssemblyInfoInputs.cache
+C:\GIT\Learn\Testing .NET Code with xUnit.net 2 Getting Started\GameEngine\obj\Debug\netstandard2.1\GameEngine.AssemblyInfo.cs
+C:\GIT\Learn\Testing .NET Code with xUnit.net 2 Getting Started\GameEngine\obj\Debug\netstandard2.1\GameEngine.csproj.CoreCompileInputs.cache
+C:\GIT\Learn\Testing .NET Code with xUnit.net 2 Getting Started\GameEngine\obj\Debug\netstandard2.1\GameEngine.dll
+C:\GIT\Learn\Testing .NET Code with xUnit.net 2 Getting Started\GameEngine\obj\Debug\netstandard2.1\GameEngine.pdb
