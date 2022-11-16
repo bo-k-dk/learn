@@ -1,0 +1,144 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\GIT\\Learn\\Testing .NET Code with xUnit.net 2 Getting Started\\GameEngine.Tests\\GameEngine.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\GIT\\Learn\\Testing .NET Code with xUnit.net 2 Getting Started\\GameEngine.Tests\\GameEngine.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\GIT\\Learn\\Testing .NET Code with xUnit.net 2 Getting Started\\GameEngine.Tests\\GameEngine.Tests.csproj",
+        "projectName": "GameEngine.Tests",
+        "projectPath": "C:\\GIT\\Learn\\Testing .NET Code with xUnit.net 2 Getting Started\\GameEngine.Tests\\GameEngine.Tests.csproj",
+        "packagesPath": "C:\\Users\\f59bk\\.nuget\\packages\\",
+        "outputPath": "C:\\GIT\\Learn\\Testing .NET Code with xUnit.net 2 Getting Started\\GameEngine.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\f59bk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/FTZ-Cloud/e8055b59-3055-4eb4-b79e-6509c60ec9f2/_packaging/FTZPlus/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\GIT\\Learn\\Testing .NET Code with xUnit.net 2 Getting Started\\GameEngine\\GameEngine.csproj": {
+                "projectPath": "C:\\GIT\\Learn\\Testing .NET Code with xUnit.net 2 Getting Started\\GameEngine\\GameEngine.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.11.0, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\GIT\\Learn\\Testing .NET Code with xUnit.net 2 Getting Started\\GameEngine\\GameEngine.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\GIT\\Learn\\Testing .NET Code with xUnit.net 2 Getting Started\\GameEngine\\GameEngine.csproj",
+        "projectName": "GameEngine",
+        "projectPath": "C:\\GIT\\Learn\\Testing .NET Code with xUnit.net 2 Getting Started\\GameEngine\\GameEngine.csproj",
+        "packagesPath": "C:\\Users\\f59bk\\.nuget\\packages\\",
+        "outputPath": "C:\\GIT\\Learn\\Testing .NET Code with xUnit.net 2 Getting Started\\GameEngine\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\f59bk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/FTZ-Cloud/e8055b59-3055-4eb4-b79e-6509c60ec9f2/_packaging/FTZPlus/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
