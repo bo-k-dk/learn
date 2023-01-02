@@ -32,7 +32,5 @@ namespace DemoTestAPI
 
             return token;
         }
-
-        public static 
     }
 }
